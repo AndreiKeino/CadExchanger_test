@@ -1,8 +1,8 @@
-***the test assignment project was compiled with microsoft visual studio 2019
+###the test assignment project was compiled with microsoft visual studio 2019
 
-*****Structure of the folders:
+#####Structure of the folders:
 
-*****AndreiKeinoTest.sln - VS solution file<br>
+#####AndreiKeinoTest.sln - VS solution file<br>
 	|<br>
 	CADEX C++ assignment v4 for probationers.pdf - assignment description file <br>
 	|<br>
@@ -10,7 +10,7 @@
 	|<br>
 	remove_compilation_dirs.py - python code to remove auxiliary folders<br>
 	|<br>
-	*****AndreiKeinoTest: - project folder<br>
+	#####AndreiKeinoTest: - project folder<br>
 		|<br>
 		AndreiKeinoTest.cpp - assignment implementation<br>
 		| <br>
@@ -20,7 +20,7 @@
 		| <br>
 		AndreiKeinoTest.vcxproj.user - axiliary VS file<br>
 		|<br>
-		*****include - header file folder<br>
+		#####include - header file folder<br>
 			|<br>
 			constants.h - some constants declaration<br>
 			|<br>
