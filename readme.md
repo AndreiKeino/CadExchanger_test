@@ -1,34 +1,33 @@
-the test assignment project was compiled with microsoft visual studio 2019
+***the test assignment project was compiled with microsoft visual studio 2019
 
-Structure of the folders:
+*****Structure of the folders:
 
-AndreiKeinoTest: - VS solution folder
-	|
-	AndreiKeinoTest.sln - VS solution file
-	|
-	CADEX C++ assignment v4 for probationers.pdf - assignment description file
-	|
-	readme.txt - this file
-	|
-	remove_compilation_dirs.py - python code to remove auxiliary folders
-	|
-	AndreiKeinoTest: - project folder
-		|
-		AndreiKeinoTest.cpp - assignment implementation
-		| 
-		AndreiKeinoTest.vcxproj - VS project file
-		|
-		AndreiKeinoTest.vcxproj.filters - axiliary VS file
-		| 
-		AndreiKeinoTest.vcxproj.user - axiliary VS file
-		|
-		include - header file folder
-			|
-			constants.h - some constants declaration
-			|
-			curves.h - curve classes implementation
-			|
-			types.h - some typedefs
-			| 
-			vec3d.h - vector and point classes implementation
+*****AndreiKeinoTest.sln - VS solution file<br>
+	|<br>
+	CADEX C++ assignment v4 for probationers.pdf - assignment description file <br>
+	|<br>
+	readme.txt - this file<br>
+	|<br>
+	remove_compilation_dirs.py - python code to remove auxiliary folders<br>
+	|<br>
+	*****AndreiKeinoTest: - project folder<br>
+		|<br>
+		AndreiKeinoTest.cpp - assignment implementation<br>
+		| <br>
+		AndreiKeinoTest.vcxproj - VS project file<br>
+		|<br>
+		AndreiKeinoTest.vcxproj.filters - axiliary VS file<br>
+		| <br>
+		AndreiKeinoTest.vcxproj.user - axiliary VS file<br>
+		|<br>
+		*****include - header file folder<br>
+			|<br>
+			constants.h - some constants declaration<br>
+			|<br>
+			curves.h - curve classes implementation<br>
+			|<br>
+			types.h - some typedefs<br>
+			| <br>
+			vec3d.h - vector and point classes implementation<br>
+			
 	
