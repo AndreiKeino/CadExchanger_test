@@ -2,7 +2,7 @@
 
 <h3>Structure of the folders:</h3>
 
-<h5>AndreiKeinoTest.sln - VS solution file</h5>
+AndreiKeinoTest.sln - VS solution file<br>
 	CADEX C++ assignment v4 for probationers.pdf - assignment description file <br>
 	readme.txt - this file<br>
 	remove_compilation_dirs.py - python code to remove auxiliary folders<br>
